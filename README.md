@@ -11,4 +11,3 @@ This repository contains all of the notes taken by [Julian](https://github.com/J
     2. Item two 
     3. Item three
 
-
