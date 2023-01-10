@@ -5,9 +5,10 @@
 
 This repository contains all of the notes taken by [Julian](https://github.com/Juelzlum/README.md) for the Lighthouse Labs Web Development Bootcamp.
 
-* [WEEK 1](/Week_1)
-  * [Day 1](/Week_1/Day1)
-    1. [Item one]()
+* [WEEK 1](/Users/juelz/lighthouse/lighthouse-web-notes/Week 1 
+  * [Day 1](/Week%201%20/)
+    1. [Item one](/Week%201%20/Day%201/)
     2. Item two 
     3. Item three
+
 
